@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;39bb8eff4565c9b72751ee0810a15855d5090704&quot; value=&quot;###&amp;#10;GET http://localhost:8080/login&quot; /&gt;&#10;  &lt;entry key=&quot;9aafa057ae8c55786db04bcafdb2d9ea7dd5c31f&quot; value=&quot;###&amp;#10;POST http://localhost:8080/principal/login?&amp;#10;    username={{$random.alphanumeric(8)}}&amp;amp;&amp;#10;    password={{$random.alphanumeric(8)}}&quot; /&gt;&#10;  &lt;entry key=&quot;5d04c5779f2a14ff6dca6b7fb8b52f95df9b5dac&quot; value=&quot;###&amp;#10;GET http://localhost:8080/logout&quot; /&gt;&#10;  &lt;entry key=&quot;25ee7b98e5489170d0c5fc96b5c3361ae77a46c8&quot; value=&quot;###&amp;#10;POST http://localhost:8080/login?&amp;#10;    username={{$random.alphanumeric(8)}}&amp;amp;&amp;#10;    password={{$random.alphanumeric(8)}}&quot; /&gt;&#10;  &lt;entry key=&quot;da00fda3b8110fa98509d1c3ba21205f5f72c59d&quot; value=&quot;###&amp;#10;GET http://localhost:8080/principal/welcome&quot; /&gt;&#10;  &lt;entry key=&quot;8abdff9f8ca176015119358e25d07b361c6b6895&quot; value=&quot;###&amp;#10;GET http://localhost:8080/principal/register&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>

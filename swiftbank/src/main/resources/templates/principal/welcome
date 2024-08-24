@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <title>Welcome to Swiftbank</title>
+     <link rel="stylesheet" href="../../static/style.css">
+ </head>
+ <body>
+     <h1>Welcome to Swiftbank, <span th:text="${username}"></span>!</h1>
+     <p>You have successfully logged in.</p>
+ </body>
+ </html>

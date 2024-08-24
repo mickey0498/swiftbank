@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Swiftbank Menu</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<section>
+  <div class="signin">
+    <div class="content">
+      <h2>Swiftbank Menu</h2>
+      <p>Welcome, <span th:text="${username}"></span>!</p>
+      <ul>
+        <li><a href="#">Account Summary</a></li>
+        <li><a href="#">Transactions</a></li>
+        <li><a href="#">Transfer Funds</a></li>
+        <li><a href="#">Settings</a></li>
+        <li><a href="/logout">Logout</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+</body>
+</html>
